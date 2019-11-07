@@ -115,7 +115,7 @@ and the engine will pull that partial into this location in the page.
 
 ### Adding external documentation
 
-To add additional external documentation follow these steps:
+To add additional external documentation follow these steps. I am just playing around with HackMD this is just a test.
 
 1. Update `tools/fetch-external.sh` to add the additional external source. If required rename the source document as this will be used in the docs URL and in dynamically determining the "Improve this doc" link and must be unique. 
 2. Update `externalDocs` in `config/links.coffee` to add the link to edit the source file. This is the link presented in "Improve this doc". The key must match the name of the filename without the .md extension e.g. `"node-sdk": 'https://github.com/balena-io/balena-sdk/edit/master/DOCUMENTATION.md'` for a file named `node-sdk.md`.
