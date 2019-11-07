@@ -6,7 +6,7 @@ Documentation for the [balenaCloud](https://balena.io/) platform. Join our [foru
 Role
 ----
 
-The intention of this repo is to provide our public-facing documentation.
+The intention of this repo is to provide our public-facing documentation. I am updating this locally to test HackMD sync the other way.
 
 
 Running locally
